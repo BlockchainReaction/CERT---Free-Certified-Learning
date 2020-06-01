@@ -5,7 +5,7 @@ import "./SafeMath.sol";
 contract CRTToken is StandardToken, SafeMath {
 
     // metadata
-    string public constant name = "Ring Payment Mobile";
+    string public constant name = "Certification Learning Token";
     string public constant symbol = "CRT";
     uint256 public constant decimals = 18;
     string public version = "1.0";
